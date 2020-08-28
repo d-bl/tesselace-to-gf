@@ -17,7 +17,7 @@ Generic pair diagrams for the following 23 lace grounds were generated using the
 ![](fouche_3x4/3x4_369_PFI-updog.jpg)  |  [updog (PFI 3x4_369)] | ![](fouche_3x4/3x4_344_PFI-bikini-top.jpg)  |  [bikini-top (PFI 3x4_344)]
 ![](fouche_3x4/3x4_345_PFI-rain.jpg)  |  [rain (PFI 3x4_345)] | ![](fouche_3x4/3x4_360_PFI-cut-diamond.jpg)  |  [cut-diamond (PFI 3x4_360)]
 ![](fouche_3x4/3x4_191_PFI-dragonfly.jpg)  |  [dragonfly (PFI 3x4_191)] | ![](fouche_3x4/3x4_128_PFI-clamshell-edge.jpg)  |  [clamshell-edge (PFI 3x4_128)]
-![](fouche_3x4/3x4_411_PFI-archer.jpg)  |  [archer (PFI 3x4_411)] | ![](fouche_3x4/3x4_350_PFI-swimming-up-the-waterfall.jpg)  |  [swimming up the waterfall (PFI 3x4_350)]
+![](fouche_3x4/3x4_411_PFI-archer.jpg)  |  [archer (PFI 3x4_411)] | ![](fouche_3x4/3x4_330_PFI-swimming-up-the-waterfall.jpg)  |  [swimming up the waterfall (PFI 3x4_330)]
 ![](fouche_3x4/3x4_286_PFI-deco.jpg)  |  [deco (PFI 3x4_286)] | ![](fouche_3x4/3x4_436_PFI-mandible.jpg)  |  [mandible (PFI 3x4_436)]
 ![](fouche_3x4/3x4_415_PFI-nouveau.jpg)  |  [nouveau (PFI 3x4_415)] | ![](fouche_3x4/3x4_245_PFI-sleet.jpg)  |  [sleet (PFI 3x4_245)]
 ![](fouche_3x4/3x4_203_PFI-Jacob_s-ladder.jpg)  |  [Jacob's ladder (PFI 3x4_203)] | ![](fouche_3x4/3x4_396_PFI-snowstorm.jpg)  |  [snowstorm (PFI 3x4_396)]
@@ -53,7 +53,7 @@ Generic pair diagrams for the following 23 lace grounds were generated using the
 
 [archer (PFI 3x4_411)]: /GroundForge/tiles?patchWidth=15&patchHeight=16&d1=ctctctctr&c1=ctctl&b1=ctctctctl&d2=cttctt&b2=ct&a2=ct&d3=ctctctct&c3=ctct&b3=ct&a3=ct&tile=-464,56-7,4868&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=3&shiftColsSE=4&shiftRowsSE=3
 
-[swimming up the waterfall (PFI 3x4_350)]: /GroundForge/tiles?patchWidth=20&patchHeight=21&d1=ct&b1=ct&a1=ct&d2=ct&c2=ct&b2=ct&a2=ct&d3=ct&c3=ct&b3=ct&a3=ct&tile=46v6,2731,3217&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=3&shiftColsSE=4&shiftRowsSE=3
+[swimming up the waterfall (PFI 3x4_330)]: /GroundForge/tiles?patchWidth=20&patchHeight=21&d1=ct&b1=ct&a1=ct&d2=ct&c2=ct&b2=ct&a2=ct&d3=ct&c3=ct&b3=ct&a3=ct&tile=46v6,2731,3217&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=3&shiftColsSE=4&shiftRowsSE=3
 
 [deco (PFI 3x4_286)]: /GroundForge/tiles?patchWidth=16&patchHeight=21&d1=ctct&c1=ctct&b1=ctct&a1=ctct&d2=ctct&c2=ctct&b2=ctct&a2=ctct&d3=ctct&b3=ctct&tile=4868,8468,x4-4&footsideStitch=ctctt&tileStitch=ctct&headsideStitch=ctctt&shiftColsSW=0&shiftRowsSW=3&shiftColsSE=4&shiftRowsSE=3
 
