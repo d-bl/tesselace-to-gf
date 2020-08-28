@@ -3,7 +3,11 @@ layout: default
 title: Burden of Excess by Pierre Fouche
 ---
 
-The [TesseLace algorithm](https://tesselace.com/research/bridges2012/) generated generic pair diagrams for the following 23 lace grounds.  [Pierre Fouche](http://www.pierrefouche.net/) chose the stitch combinations, realized the lace in 170/2 Egyptian cotton and named the grounds.  Each sample in real life is 2.5 cm wide.  Click on the GroundForge link to see a thread diagram, pair diagram and stitches for each sample.
+Burden of Excess 3x4
+====================
+
+Generic pair diagrams for the following 23 lace grounds were generated using the [TesseLace algorithm](https://tesselace.com/research/bridges2012/).
+ [Pierre Fouch&#233;](http://www.pierrefouche.net/) chose the stitch combinations, realized the lace in 170/2 Egyptian cotton and named the grounds.  Each sample in real life is 2.5 cm wide.  Click on the GroundForge link to see a thread diagram, pair diagram and stitches for each sample.
 
 | Sample | GroundForge link | Sample | GroundForge Link |
 :---:|:---:|:---:|:---:|
