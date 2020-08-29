@@ -9,7 +9,7 @@ Burden of Excess 3x4
 Generic pair diagrams for the following 23 lace grounds were generated using the [TesseLace algorithm](https://tesselace.com/research/bridges2012/).
  [Pierre Fouch&#233;](http://www.pierrefouche.net/) chose the stitch combinations, realized the lace in 170/2 Egyptian cotton and named the grounds.  Each sample in real life is 2.5 cm wide.  Click on the GroundForge link to see a thread diagram, pair diagram and stitches for each sample.  Click on an image to enlarge.
 
-| Sample | GroundForge link | Sample | GroundForge Link |
+| Sample | GroundForge | Sample | GroundForge |
 :---:|:---:|:---:|:---:|
 [![](fouche_3x4/thumbnail/3x4_34_PFI-mantis.jpg)](fouche_3x4/large/3x4_34_PFI-mantis.jpg)  |  [mantis<br>PFI 3x4_34] | [![](fouche_3x4/thumbnail/3x4_400_PFI-trellis.jpg)](fouche_3x4/large/3x4_400_PFI-trellis.jpg)  |  [trellis<br>PFI 3x4_400]
 [![](fouche_3x4/thumbnail/3x4_467_PFI-mother_and_babe.jpg)](fouche_3x4/large/3x4_467_PFI-mother_and_babe.jpg)  |  [mother and babe<br>PFI 3x4_467] | [![](fouche_3x4/thumbnail/3x4_451_PFI-trail_and_stripes.jpg)](fouche_3x4/large/3x4_451_PFI-trail_and_stripes.jpg)  |  [trail and stripes<br>PFI 3x4_451]
