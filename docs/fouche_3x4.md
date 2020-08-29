@@ -11,18 +11,18 @@ Generic pair diagrams for the following 23 lace grounds were generated using the
 
 | Sample | GroundForge link | Sample | GroundForge Link |
 :---:|:---:|:---:|:---:|
-![](fouche_3x4/3x4_34_PFI-mantis.jpg)  |  [mantis (PFI 3x4_34)] | ![](fouche_3x4/3x4_400_PFI-trellis.jpg)  |  [trellis (PFI 3x4_400)]
-![](fouche_3x4/3x4_467_PFI-mother_and_babe.jpg)  |  [mother and babe (PFI 3x4_467)] | ![](fouche_3x4/3x4_451_PFI-trail_and_stripes.jpg)  |  [trail and stripes (PFI 3x4_451)]
-![](fouche_3x4/3x4_420_PFI-flying-squirrel.jpg)  |  [flying squirrel (PFI 3x4_420] | ![](fouche_3x4/3x4_162_PFI-coral.jpg)  |  [coral (PFI 3x4_162)]
-![](fouche_3x4/3x4_369_PFI-updog.jpg)  |  [updog (PFI 3x4_369)] | ![](fouche_3x4/3x4_344_PFI-bikini-top.jpg)  |  [bikini-top (PFI 3x4_344)]
-![](fouche_3x4/3x4_345_PFI-rain.jpg)  |  [rain (PFI 3x4_345)] | ![](fouche_3x4/3x4_360_PFI-cut-diamond.jpg)  |  [cut-diamond (PFI 3x4_360)]
-![](fouche_3x4/3x4_191_PFI-dragonfly.jpg)  |  [dragonfly (PFI 3x4_191)] | ![](fouche_3x4/3x4_128_PFI-clamshell-edge.jpg)  |  [clamshell-edge (PFI 3x4_128)]
-![](fouche_3x4/3x4_411_PFI-archer.jpg)  |  [archer (PFI 3x4_411)] | ![](fouche_3x4/3x4_330_PFI-swimming-up-the-waterfall.jpg)  |  [swimming up the waterfall (PFI 3x4_330)]
-![](fouche_3x4/3x4_286_PFI-deco.jpg)  |  [deco (PFI 3x4_286)] | ![](fouche_3x4/3x4_436_PFI-mandible.jpg)  |  [mandible (PFI 3x4_436)]
-![](fouche_3x4/3x4_415_PFI-nouveau.jpg)  |  [nouveau (PFI 3x4_415)] | ![](fouche_3x4/3x4_245_PFI-sleet.jpg)  |  [sleet (PFI 3x4_245)]
-![](fouche_3x4/3x4_203_PFI-Jacob_s-ladder.jpg)  |  [Jacob's ladder (PFI 3x4_203)] | ![](fouche_3x4/3x4_396_PFI-snowstorm.jpg)  |  [snowstorm (PFI 3x4_396)]
-![](fouche_3x4/3x4_267_PFI-greek-waves.jpg)  |  [Greek waves (PFI 3x4_267)] | ![](fouche_3x4/3x4_251_PFI-bell-pepper.jpg)  |  [bell pepper (PFI 3x4_251)]
-![](fouche_3x4/3x4_89_PFI-wasp-nest.jpg)  |  [wasp nest (PFI 3x4_89)] | |
+[![](fouche_3x4/thumbnail/3x4_34_PFI-mantis.jpg)](fouche_3x4/large/3x4_34_PFI-mantis.jpg)  |  [mantis (PFI 3x4_34)] | [![](fouche_3x4/thumbnail/3x4_400_PFI-trellis.jpg)](fouche_3x4/large/3x4_400_PFI-trellis.jpg)  |  [trellis (PFI 3x4_400)]
+[![](fouche_3x4/thumbnail/3x4_467_PFI-mother_and_babe.jpg)](fouche_3x4/large/3x4_467_PFI-mother_and_babe.jpg)  |  [mother and babe (PFI 3x4_467)] | [![](fouche_3x4/thumbnail/3x4_451_PFI-trail_and_stripes.jpg)](fouche_3x4/large/3x4_451_PFI-trail_and_stripes.jpg)  |  [trail and stripes (PFI 3x4_451)]
+![](fouche_3x4/thumbnail/3x4_420_PFI-flying-squirrel.jpg)  |  [flying squirrel (PFI 3x4_420] | ![](fouche_3x4/thumbnail/3x4_162_PFI-coral.jpg)  |  [coral (PFI 3x4_162)]
+![](fouche_3x4/thumbnail/3x4_369_PFI-updog.jpg)  |  [updog (PFI 3x4_369)] | ![](fouche_3x4/thumbnail/3x4_344_PFI-bikini-top.jpg)  |  [bikini-top (PFI 3x4_344)]
+![](fouche_3x4/thumbnail/3x4_345_PFI-rain.jpg)  |  [rain (PFI 3x4_345)] | ![](fouche_3x4/thumbnail/3x4_360_PFI-cut-diamond.jpg)  |  [cut-diamond (PFI 3x4_360)]
+![](fouche_3x4/thumbnail/3x4_191_PFI-dragonfly.jpg)  |  [dragonfly (PFI 3x4_191)] | ![](fouche_3x4/thumbnail/3x4_128_PFI-clamshell-edge.jpg)  |  [clamshell-edge (PFI 3x4_128)]
+![](fouche_3x4/thumbnail/3x4_411_PFI-archer.jpg)  |  [archer (PFI 3x4_411)] | ![](fouche_3x4/thumbnail/3x4_330_PFI-swimming-up-the-waterfall.jpg)  |  [swimming up the waterfall (PFI 3x4_330)]
+![](fouche_3x4/thumbnail/3x4_286_PFI-deco.jpg)  |  [deco (PFI 3x4_286)] | ![](fouche_3x4/thumbnail/3x4_436_PFI-mandible.jpg)  |  [mandible (PFI 3x4_436)]
+![](fouche_3x4/thumbnail/3x4_415_PFI-nouveau.jpg)  |  [nouveau (PFI 3x4_415)] | ![](fouche_3x4/thumbnail/3x4_245_PFI-sleet.jpg)  |  [sleet (PFI 3x4_245)]
+![](fouche_3x4/thumbnail/3x4_203_PFI-Jacob_s-ladder.jpg)  |  [Jacob's ladder (PFI 3x4_203)] | ![](fouche_3x4/thumbnail/3x4_396_PFI-snowstorm.jpg)  |  [snowstorm (PFI 3x4_396)]
+![](fouche_3x4/thumbnail/3x4_267_PFI-greek-waves.jpg)  |  [Greek waves (PFI 3x4_267)] | ![](fouche_3x4/thumbnail/3x4_251_PFI-bell-pepper.jpg)  |  [bell pepper (PFI 3x4_251)]
+![](fouche_3x4/thumbnail/3x4_89_PFI-wasp-nest.jpg)  |  [wasp nest (PFI 3x4_89)] | |
 
 
 
