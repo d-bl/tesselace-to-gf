@@ -12,8 +12,8 @@ Each sample in real life is 2.5 cm wide.  Click on the GroundForge link to see a
 
 Grounds are grouped according to the number of pairs required.  Grounds in the same group will work well together.
  
- 3 pairs / 4 columns
- ===
+3 pairs / 4 columns
+===================
 
 | Sample | GroundForge | Sample | GroundForge |
 :---:|:---:|:---:|:---:|
@@ -21,7 +21,7 @@ Grounds are grouped according to the number of pairs required.  Grounds in the s
 [![](fouche_3x4/thumbnail/3x4_400_PFI-trellis.jpg)](fouche_3x4/large/3x4_400_PFI-trellis.jpg)  |  [trellis<br>PFI 3x4_400] | [![](fouche_3x4/thumbnail/3x4_451_PFI-trail_and_stripes.jpg)](fouche_3x4/large/3x4_451_PFI-trail_and_stripes.jpg)  |  [trail and stripes<br>PFI 3x4_451]
 
  4 pairs / 4 columns
- ===
+ ===================
 
 | Sample | GroundForge | Sample | GroundForge |
 :---:|:---:|:---:|:---:|
@@ -31,7 +31,7 @@ Grounds are grouped according to the number of pairs required.  Grounds in the s
 [![](fouche_3x4/thumbnail/3x4_467_PFI-mother_and_babe.jpg)](fouche_3x4/large/3x4_467_PFI-mother_and_babe.jpg)  |  [mother and babe<br>PFI 3x4_467]
 
  5 pairs / 4 columns
- ===
+ ===================
 
 | Sample | GroundForge | Sample | GroundForge |
 :---:|:---:|:---:|:---:|
@@ -41,7 +41,7 @@ Grounds are grouped according to the number of pairs required.  Grounds in the s
 [![](fouche_3x4/thumbnail/3x4_415_PFI-nouveau.jpg)](fouche_3x4/large/3x4_415_PFI-nouveau.jpg)  |  [nouveau<br>PFI 3x4_415] | [![](fouche_3x4/thumbnail/3x4_436_PFI-mandible.jpg)](fouche_3x4/large/3x4_436_PFI-mandible.jpg)  |  [mandible<br>PFI 3x4_436]
 
  6 pairs / 4 columns
- ===
+ ===================
 
 | Sample | GroundForge | Sample | GroundForge |
 :---:|:---:|:---:|:---:|
