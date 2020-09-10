@@ -10,7 +10,7 @@ Generic pair diagrams for the following lace grounds were generated using the [T
 [Pierre Fouch&#233;](http://www.pierrefouche.net/) chose the stitch combinations, realized the lace in 170/2 Egyptian cotton and named the grounds.  
 Each sample in real life is 2.5 cm wide.  Click on the GroundForge link to see a thread diagram, pair diagram and stitches for each sample.  Click on an image to enlarge.
 
-Grounds are grouped according to the number of pairs required.  Grounds in the same group will work well together.
+Grounds are grouped according to the number of pairs required.  Grounds in the same group will work well together.  Scaling is required to combine grounds from different groups.
  
 3 pairs / 4 columns
 -------------------
