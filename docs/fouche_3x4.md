@@ -6,12 +6,12 @@ title: Burden of Excess 3x4
 Burden of Excess 3x4
 ====================
 
-Generic pair diagrams for the following lace grounds were generated using the [TesseLace algorithm](https://tesselace.com/research/bridges2012/).
-[Pierre Fouch&#233;](http://www.pierrefouche.net/) chose the stitch combinations, realized the lace in 170/2 Egyptian cotton and named the grounds.  Each sample in real life is 2.5 cm wide.  
+Pierre Fouch&#233; created a sampler (see "Burden of Excess" [1](http://www.pierrefouche.net/resources/burdenofexcess%20-%201.jpg), [2](http://www.pierrefouche.net/resources/burdenofexcess%20-%202.jpg) and [3](http://www.pierrefouche.net/resources/burdenofexcess%20-%203.jpg)) of grounds that were generated using the [TesseLace algorithm](https://tesselace.com/research/bridges2012/). The basic repeating patten for each of these grounds is 4 columns wide and 3 rows high.  Pierre chose the stitch combinations, realized the lace in 170/2 Egyptian cotton and named the grounds.  Each sample in real life is 2.5 cm wide.  
 
-* Click on an image to enlarge.
-* Click on the GroundForge (GF) link to see thread and pair diagrams.
- * Click on the Inkscape link to download a template file to use with the [Bobbin Lace plugins for Inkscape](https://tesselace.com/tools/inkscape-extension/).
+In the following tables, 
+* click on an image to enlarge,
+* click on the GroundForge (GF) link to see thread and pair diagrams,
+* click on the Inkscape link to download a template file for use with the [Bobbin Lace plugins for Inkscape](https://tesselace.com/tools/inkscape-extension/).
 
 Grounds are grouped according to the number of pairs required.  Grounds in the same group will work on the same grid.  To combine grounds from different groups will require either scaling, or the addition/removal of threads.
  
