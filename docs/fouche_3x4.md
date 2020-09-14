@@ -20,7 +20,7 @@ Grounds are grouped according to the number of pairs required.  Grounds in the s
 
 | Sample |  | Sample |  |
 :---:|:---:|:---:|:---:|
-[![](fouche_3x4/thumbnail/3x4_344_PFI-bikini-top.jpg)](fouche_3x4/large/3x4_344_PFI-bikini-top.jpg)  |  GF:[bikini-top]<br>Inkscape:<a href="fouche_3x4/thumbnail/3x4_344.txt" download = doanload>3x4_344 </a> | [![](fouche_3x4/thumbnail/3x4_345_PFI-rain.jpg)](fouche_3x4/large/3x4_345_PFI-rain.jpg)  |  [rain<br>PFI 3x4_345] 
+[![](fouche_3x4/thumbnail/3x4_344_PFI-bikini-top.jpg)](fouche_3x4/large/3x4_344_PFI-bikini-top.jpg)  |  GF:[bikini-top]<br>Inkscape:<a href="fouche_3x4/thumbnail/3x4_344.txt" download = 3x4_344.txt>3x4_344 </a> | [![](fouche_3x4/thumbnail/3x4_345_PFI-rain.jpg)](fouche_3x4/large/3x4_345_PFI-rain.jpg)  |  [rain<br>PFI 3x4_345] 
 [![](fouche_3x4/thumbnail/3x4_400_PFI-trellis.jpg)](fouche_3x4/large/3x4_400_PFI-trellis.jpg)  |  [trellis<br>PFI 3x4_400] | [![](fouche_3x4/thumbnail/3x4_451_PFI-trail_and_stripes.jpg)](fouche_3x4/large/3x4_451_PFI-trail_and_stripes.jpg)  |  [trail and stripes<br>PFI 3x4_451]
 
  4 pairs / 4 columns
