@@ -13,7 +13,7 @@ Generic pair diagrams for the following lace grounds were generated using the [T
 * Click on the GroundForge (GF) link to see thread and pair diagrams.
  * Click on the Inkscape link to download a template file to use with the [Bobbin Lace plugins for Inkscape](https://tesselace.com/tools/inkscape-extension/).
 
-Grounds are grouped according to the number of pairs required.  Grounds in the same group will work well together.  Scaling is required to combine grounds from different groups.
+Grounds are grouped according to the number of pairs required.  Grounds in the same group will work on the same grid.  Scaling is required to combine grounds from different groups.
  
 3 pairs / 4 columns
 -------------------
