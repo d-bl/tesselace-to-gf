@@ -26,7 +26,7 @@ Grounds are grouped according to the number of pairs required.  Grounds in the s
  4 pairs / 4 columns
 -------------------
 
-| Sample | GroundForge | Sample | GroundForge |
+| Sample |  | Sample |  |
 :---:|:---:|:---:|:---:|
 [![](fouche_3x4/thumbnail/3x4_162_PFI-coral.jpg)](fouche_3x4/large/3x4_162_PFI-coral.jpg)  |  GF:[coral]<br><br>Inkscape:<a href="fouche_3x4/thumbnail/3x4_162.txt" download="3x4_162.txt">3x4_162</a> | [![](fouche_3x4/thumbnail/3x4_191_PFI-dragonfly.jpg)](fouche_3x4/large/3x4_191_PFI-dragonfly.jpg)  |  GF:[dragonfly]<br><br>Inkscape:<a href="fouche_3x4/thumbnail/3x4_191.txt" download="3x4_191.txt">3x4_191</a>
 [![](fouche_3x4/thumbnail/3x4_330_PFI-swimming-up-the-waterfall.jpg)](fouche_3x4/large/3x4_330_PFI-swimming-up-the-waterfall.jpg)  |  GF:[swimming up<br>the waterfall]<br><br>Inkscape:<a href="fouche_3x4/thumbnail/3x4_330.txt" download="3x4_330.txt">3x4_330</a> | [![](fouche_3x4/thumbnail/3x4_360_PFI-cut-diamond.jpg)](fouche_3x4/large/3x4_360_PFI-cut-diamond.jpg)  |  GF:[cut-diamond]<br><br>Inkscape:<a href="fouche_3x4/thumbnail/3x4_360.txt" download="3x4_360.txt">3x4_360</a>
@@ -36,7 +36,7 @@ Grounds are grouped according to the number of pairs required.  Grounds in the s
  5 pairs / 4 columns
 -------------------
 
-| Sample | GroundForge | Sample | GroundForge |
+| Sample |  | Sample |  |
 :---:|:---:|:---:|:---:|
 [![](fouche_3x4/thumbnail/3x4_128_PFI-clamshell-edge.jpg)](fouche_3x4/large/3x4_128_PFI-clamshell-edge.jpg)  |  GF:[clamshell-edge]<br><br>Inkscape:<a href="fouche_3x4/thumbnail/3x4_128.txt" download="3x4_128.txt">3x4_128</a> | [![](fouche_3x4/thumbnail/3x4_203_PFI-Jacob_s-ladder.jpg)](fouche_3x4/large/3x4_203_PFI-Jacob_s-ladder.jpg)  |  GF:[Jacob's ladder]<br><br>Inkscape:<a href="fouche_3x4/thumbnail/3x4_203.txt" download="3x4_203.txt">3x4_203</a>
 [![](fouche_3x4/thumbnail/3x4_245_PFI-sleet.jpg)](fouche_3x4/large/3x4_245_PFI-sleet.jpg)  |  GF:[sleet]<br><br>Inkscape:<a href="fouche_3x4/thumbnail/3x4_245.txt" download="3x4_245.txt">3x4_245</a> | [![](fouche_3x4/thumbnail/3x4_267_PFI-greek-waves.jpg)](fouche_3x4/large/3x4_267_PFI-greek-waves.jpg)  |  GF:[Greek waves]<br><br>Inkscape:<a href="fouche_3x4/thumbnail/3x4_267.txt" download="3x4_267.txt">3x4_267</a>
@@ -46,7 +46,7 @@ Grounds are grouped according to the number of pairs required.  Grounds in the s
  6 pairs / 4 columns
 -------------------
 
-| Sample | GroundForge | Sample | GroundForge |
+| Sample |  | Sample |  |
 :---:|:---:|:---:|:---:|
 [![](fouche_3x4/thumbnail/3x4_34_PFI-mantis.jpg)](fouche_3x4/large/3x4_34_PFI-mantis.jpg)  |  GF:[mantis]<br><br>Inkscape:<a href="fouche_3x4/thumbnail/3x4_34.txt" download="3x4_34.txt">3x4_34</a>  | [![](fouche_3x4/thumbnail/3x4_89_PFI-wasp-nest.jpg)](fouche_3x4/large/3x4_89_PFI-wasp-nest.jpg)  |  GF:[wasp nest]<br><br>Inkscape:<a href="fouche_3x4/thumbnail/3x4_89.txt" download="3x4_89.txt">3x4_89</a> 
 [![](fouche_3x4/thumbnail/3x4_251_PFI-bell-pepper.jpg)](fouche_3x4/large/3x4_251_PFI-bell-pepper.jpg)  |  GF:[bell pepper]<br><br>Inkscape:<a href="fouche_3x4/thumbnail/3x4_251.txt" download="3x4_251.txt">3x4_251</a> | [![](fouche_3x4/thumbnail/3x4_396_PFI-snowstorm.jpg)](fouche_3x4/large/3x4_396_PFI-snowstorm.jpg)  |  GF:[snowstorm]<br><br>Inkscape:<a href="fouche_3x4/thumbnail/3x4_396.txt" download="3x4_396.txt">3x4_396</a>
