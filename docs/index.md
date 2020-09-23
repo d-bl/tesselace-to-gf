@@ -30,20 +30,9 @@ Traditional Grounds
 
 ### Cloth family
 {% include tesselaceSample.html name="2x1_1" path="cloth" GF="/GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=8,1&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=0&" SVG="patch=8,1;checker" %}
-
-|     |     |     |     |     |
-|:---:|:---:|:---:|:---:|:---:|
-[![](tl/cloth/2x1_1.png)][GF 2x1_1] | [![](tl/cloth/2x1_3.png)][GF 2x1_3] | [![](tl/cloth/3x1_1.png)][GF 3x1_1] | [![](tl/cloth/5x1_20.png)][GF 5x1_20]
-
-[GF 2x1_1]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=8,1&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=0&
-[GF 2x1_3]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=6,2&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=0&
-[GF 3x1_1]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=6,8,1&shiftColsSW=0&shiftRowsSW=3&shiftColsSE=1&shiftRowsSE=0&
-[GF 5x1_20]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=6,6,6,2,2&shiftColsSW=0&shiftRowsSW=5&shiftColsSE=1&shiftRowsSE=0&
-
-[SVG 2x1_1]: /GroundForge/sheet.html?{{ "patch=8,1;checker" }}
-[SVG 2x1_3]: /GroundForge/sheet.html?{{ "patch=6,2;checker" }} 
-[SVG 3x1_1]: /GroundForge/sheet.html?{{ "patch=6,8,1;checker" }}
-[SVG 5x1_20]: /GroundForge/sheet.html?{{ "patch=6,6,6,2,2;checker" }}
+{% include tesselaceSample.html name="2x1_3" path="cloth" GF="/GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=6,2&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=0&" SVG="patch=6,2;checker" %}
+{% include tesselaceSample.html name="3x1_1" path="cloth" GF="/GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=6,8,1&shiftColsSW=0&shiftRowsSW=3&shiftColsSE=1&shiftRowsSE=0&" SVG="patch=6,8,1;checker" %}
+{% include tesselaceSample.html name="5x1_20" path="cloth" GF="/GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=6,6,6,2,2&shiftColsSW=0&shiftRowsSW=5&shiftColsSE=1&shiftRowsSE=0&" SVG="patch=6,6,6,2,2;checker" %}
 
 ### Diamond family
 
