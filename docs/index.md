@@ -49,14 +49,48 @@ Traditional Grounds
 
 |     |     |     |     |     |
 |:---|:---|:---|:---|:---|
-[![](tl/4/2x2_3.png)][2x2_3] | [![](tl/4/1x1_1.png)][1x1_1] | [![](tl/4/1x2_1.png)][1x2_1] | [![](tl/4/1x3_1.png)][1x3_1] | [![](tl/4/1x4_2.png)][1x4_2]
-<a href="tl/4/2x2_3.txt" download="2x2_3.txt">2x2_3</a> <br> <a href="/GroundForge/sheet.html?{{ "patch=5-,-5;checker" }}">SVG</a> | <a href="tl/4/1x1_1.txt" download="1x1_1.txt">1x1_1</a> <br> <a href="/GroundForge/sheet.html?{{ "patch=6;checker" }}">SVG</a> | <a href="tl/4/1x2_1.txt" download="1x2_1.txt">1x2_1</a> <br> <a href="/GroundForge/sheet.html?{{ "patch=53;checker" }}">SVG</a> | <a href="tl/4/1x3_1.txt" download="1x3_1.txt">1x3_1</a> <br> <a href="/GroundForge/sheet.html?{{ "patch=563;checker" }}">SVG</a> | <a href="tl/4/1x4_2.txt" download="1x4_2.txt">1x4_2</a> <br> <a href="/GroundForge/sheet.html?{{ "patch=5632;checker" }}">SVG</a>
-[![](tl/4/1x5_1.png)][1x5_1] | [![](tl/4/1x5_2.png)][1x5_2] | [![](tl/4/1x5_3.png)][1x5_3] | [![](tl/4/3x2_26.png)][3x2_26] | [![](tl/4/3x3_19.png)][3x3_19]
-<a href="tl/4/1x5_1.txt" download="1x5_1.txt">1x5_1</a> <br> <a href="/GroundForge/sheet.html?{{ "patch=56663;checker" }}">SVG</a> | <a href="tl/4/1x5_2.txt" download="1x5_2.txt">1x5_2</a> <br> <a href="/GroundForge/sheet.html?{{ "patch=56353;checker" }}">SVG</a> | <a href="tl/4/1x5_3.txt" download="1x5_3.txt">1x5_3</a> <br> <a href="/GroundForge/sheet.html?{{ "patch=56632;checker" }}">SVG</a> | <a href="tl/4/3x2_26.txt" download="3x2_26.txt">3x2_26</a> <br> <a href="/GroundForge/sheet.html?{{ "patch=53,5-,-5;checker" }}">SVG</a> | <a href="tl/4/3x3_19.txt" download="3x3_19.txt">3x3_19</a> <br> <a href="/GroundForge/sheet.html?{{ "patch=56-,6-5,-56;checker" }}">SVG</a>
-[![](tl/4/3x3_107.png)][3x3_107] | [![](tl/4/4x2_120.png)][4x2_120] | [![](tl/4/4x2_170.png)][4x2_170] | [![](tl/4/4x4_33.png)][4x4_33] | [![](tl/4/4x4_93.png)][4x4_93]
-<a href="tl/4/3x3_107.txt" download="3x3_107.txt">3x3_107</a> <br> <a href="/GroundForge/sheet.html?{{ "patch=4-L,-L4,L4-;checker" }}">SVG</a> | <a href="tl/4/4x2_120.txt" download="4x2_120.txt">4x2_120</a> <br> <a href="/GroundForge/sheet.html?{{ "patch=53,5-,35,-5;checker" }}">SVG</a> | <a href="tl/4/4x2_170.txt" download="4x2_170.txt">4x2_170</a> <br> <a href="/GroundForge/sheet.html?{{ "patch=53,53,5-,-5;checker" }}">SVG</a> | <a href="tl/4/4x4_33.txt" download="4x4_33.txt">4x4_33</a> <br> <a href="/GroundForge/sheet.html?{{ "patch=566-,66-5,6-56,-566;checker" }}">SVG</a> | <a href="tl/4/4x4_93.txt" download="4x4_93.txt">4x4_93</a> <br> <a href="/GroundForge/sheet.html?{{ "patch=5632,56-2,5-5-,-535;checker" }}">SVG</a>
+[![](tl/4/2x2_3.png)][GF 2x2_3] | [![](tl/4/1x1_1.png)][GF 1x1_1] | [![](tl/4/1x2_1.png)][GF 1x2_1] | [![](tl/4/1x3_1.png)][GF 1x3_1] | [![](tl/4/1x4_2.png)][GF 1x4_2]
+<a href="tl/4/2x2_3.txt" download="2x2_3.txt">TXT 2x2_3</a> <br> [SVG 2x2_3] | <a href="tl/4/1x1_1.txt" download="1x1_1.txt">TXT 1x1_1</a> <br> [SVG 1x1_1] | <a href="tl/4/1x2_1.txt" download="1x2_1.txt">TXT 1x2_1</a> <br> [SVG 1x2_1] | <a href="tl/4/1x3_1.txt" download="1x3_1.txt">TXT 1x3_1</a> <br> [SVG 1x3_1] | <a href="tl/4/1x4_2.txt" download="1x4_2.txt">TXT 1x4_2</a> <br> [SVG 1x4_2]
+[![](tl/4/1x5_1.png)][GF 1x5_1] | [![](tl/4/1x5_2.png)][GF 1x5_2] | [![](tl/4/1x5_3.png)][GF 1x5_3] | [![](tl/4/3x2_26.png)][GF 3x2_26] | [![](tl/4/3x3_19.png)][GF 3x3_19]
+<a href="tl/4/1x5_1.txt" download="1x5_1.txt">TXT 1x5_1</a> <br> [SVG 1x5_1] | <a href="tl/4/1x5_2.txt" download="1x5_2.txt">TXT 1x5_2</a> <br> [SVG 1x5_2] | <a href="tl/4/1x5_3.txt" download="1x5_3.txt">TXT 1x5_3</a> <br> [SVG 1x5_3] | <a href="tl/4/3x2_26.txt" download="3x2_26.txt">TXT 3x2_26</a> <br> [SVG 3x2_26] | <a href="tl/4/3x3_19.txt" download="3x3_19.txt">TXT 3x3_19</a> <br> [SVG 3x3_19]
+[![](tl/4/3x3_107.png)][GF 3x3_107] | [![](tl/4/4x2_120.png)][GF 4x2_120] | [![](tl/4/4x2_170.png)][GF 4x2_170] | [![](tl/4/4x4_33.png)][GF 4x4_33] | [![](tl/4/4x4_93.png)][GF 4x4_93]
+<a href="tl/4/3x3_107.txt" download="3x3_107.txt">TXT 3x3_107</a> <br> [SVG 3x3_107] | <a href="tl/4/4x2_120.txt" download="4x2_120.txt">TXT 4x2_120</a> <br> [SVG 4x2_120] | <a href="tl/4/4x2_170.txt" download="4x2_170.txt">TXT 4x2_170</a> <br> [SVG 4x2_170] | <a href="tl/4/4x4_33.txt" download="4x4_33.txt">TXT 4x4_33</a> <br> [SVG 4x4_33] | <a href="tl/4/4x4_93.txt" download="4x4_93.txt">TXT 4x4_93</a> <br> [SVG 4x4_93]]
 See also<br> [MAE-gf nets](https://maetempels.github.io/MAE-gf/docs/nets#diagonal-net) |
  
+[GF 1x1_1]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=6&shiftColsSW=0&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=0&
+[GF 1x2_1]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=53&shiftColsSW=0&shiftRowsSW=1&shiftColsSE=2&shiftRowsSE=0&
+[GF 1x3_1]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=563&shiftColsSW=0&shiftRowsSW=1&shiftColsSE=3&shiftRowsSE=0&
+[GF 1x4_2]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=5632&shiftColsSW=0&shiftRowsSW=1&shiftColsSE=4&shiftRowsSE=0&
+[GF 1x5_1]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=56663&shiftColsSW=0&shiftRowsSW=1&shiftColsSE=5&shiftRowsSE=0&
+[GF 1x5_2]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=56353&shiftColsSW=0&shiftRowsSW=1&shiftColsSE=5&shiftRowsSE=0&
+[GF 1x5_3]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=56632&shiftColsSW=0&shiftRowsSW=1&shiftColsSE=5&shiftRowsSE=0&
+[GF 2x2_3]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=5-,-5&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=0&
+[GF 3x3_19]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=56-,6-5,-56&shiftColsSW=0&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=0&
+[GF 3x2_26]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=53,5-,-5&shiftColsSW=0&shiftRowsSW=3&shiftColsSE=2&shiftRowsSE=0&
+[GF 3x3_107]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=4-L,-L4,L4-&shiftColsSW=0&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=0&
+[GF 4x4_33]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=566-,66-5,6-56,-566&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=0&
+[GF 4x4_93]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=5632,56-2,5-5-,-535&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=0&
+[GF 4x2_120]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=53,5-,35,-5&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=0&
+[GF 4x2_170]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=53,53,5-,-5&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=0&
+[GF 2x2_5]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=68,-4&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=0&
+ 
+[SVG 1x1_1]: /GroundForge/sheet.html?{{ "patch=6;checker" }}
+[SVG 1x2_1]: /GroundForge/sheet.html?{{ "patch=53;checker" }}
+[SVG 1x3_1]: /GroundForge/sheet.html?{{ "patch=563;checker" }}
+[SVG 1x4_2]: /GroundForge/sheet.html?{{ "patch=5632;checker" }}
+[SVG 1x5_1]: /GroundForge/sheet.html?{{ "patch=56663;checker" }}
+[SVG 1x5_2]: /GroundForge/sheet.html?{{ "patch=56353;checker" }}
+[SVG 1x5_3]: /GroundForge/sheet.html?{{ "patch=56632;checker" }}
+[SVG 2x2_3]: /GroundForge/sheet.html?{{ "patch=5-,-5;checker" }}
+[SVG 3x3_19]: /GroundForge/sheet.html?{{ "patch=56-,6-5,-56;checker" }}
+[SVG 3x2_26]: /GroundForge/sheet.html?{{ "patch=53,5-,-5;checker" }}
+[SVG 3x3_107]: /GroundForge/sheet.html?{{ "patch=4-L,-L4,L4-;checker" }}
+[SVG 4x4_33]: /GroundForge/sheet.html?{{ "patch=566-,66-5,6-56,-566;checker" }}
+[SVG 4x4_93]: /GroundForge/sheet.html?{{ "patch=5632,56-2,5-5-,-535;checker" }}
+[SVG 4x2_120]: /GroundForge/sheet.html?{{ "patch=53,5-,35,-5;checker" }}
+[SVG 4x2_170]: /GroundForge/sheet.html?{{ "patch=53,53,5-,-5;checker" }}
+[SVG 2x2_5]: /GroundForge/sheet.html?{{ "patch=68,-4;checker" }}
+
 ### Kat or Paris family
 
 |     |     |     |     |     |
@@ -110,41 +144,6 @@ The non-traditional grounds have been grouped based on the size of the largest h
 * [Nonagon](8_9_10.md#9)
 * [Decagon](8_9_10.md#10) 
 
-
-
-
-[1x1_1]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=6&shiftColsSW=0&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=0&
-
-[1x2_1]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=53&shiftColsSW=0&shiftRowsSW=1&shiftColsSE=2&shiftRowsSE=0&
-
-[1x3_1]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=563&shiftColsSW=0&shiftRowsSW=1&shiftColsSE=3&shiftRowsSE=0&
-
-[1x4_2]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=5632&shiftColsSW=0&shiftRowsSW=1&shiftColsSE=4&shiftRowsSE=0&
-
-[1x5_1]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=56663&shiftColsSW=0&shiftRowsSW=1&shiftColsSE=5&shiftRowsSE=0&
-
-[1x5_2]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=56353&shiftColsSW=0&shiftRowsSW=1&shiftColsSE=5&shiftRowsSE=0&
-
-[1x5_3]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=56632&shiftColsSW=0&shiftRowsSW=1&shiftColsSE=5&shiftRowsSE=0&
-
-[2x2_3]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=5-,-5&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=0&
-
-[3x3_19]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=56-,6-5,-56&shiftColsSW=0&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=0&
-
-[3x2_26]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=53,5-,-5&shiftColsSW=0&shiftRowsSW=3&shiftColsSE=2&shiftRowsSE=0&
-
-[3x3_107]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=4-L,-L4,L4-&shiftColsSW=0&shiftRowsSW=3&shiftColsSE=3&shiftRowsSE=0&
-
-[4x4_33]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=566-,66-5,6-56,-566&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=0&
-
-[4x4_93]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=5632,56-2,5-5-,-535&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=0&
-
-[4x2_120]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=53,5-,35,-5&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=0&
-
-[4x2_170]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=53,53,5-,-5&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=2&shiftRowsSE=0&
-
-
-[2x2_5]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=68,-4&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=0&
 
 [kat]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=B-C-,---5,C-B-,-5--&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=0& 
 [R3M3_6x6_1]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=5-O-E-,-E-5-O&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=6&shiftRowsSE=0&
