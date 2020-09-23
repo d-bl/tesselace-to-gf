@@ -33,7 +33,7 @@ Traditional Grounds
 |     |     |     |     |     |
 |:---|:---|:---|:---|:---|
 [![](tl/cloth/2x1_1.png)][GF 2x1_1] | [![](tl/cloth/2x1_3.png)][GF 2x1_3] | [![](tl/cloth/3x1_1.png)][GF 3x1_1] | [![](tl/cloth/5x1_20.png)][GF 5x1_20]
-<a href="tl/cloth/2x1_1.txt" download="2x1_1.txt">TXT 2x1_1</a>  <br> [SVG 2x1_1]  | <a href="tl/cloth/2x1_3.txt" download="2x1_3.txt">TXT 2x1_3</a> <br> [SVG 2x1_3] | <a href="tl/cloth/3x1_1.txt" download="3x1_1.txt">TXT 3x1_1</a> <br> [SVG 3x1_1] | <a href="tl/cloth/5x1_20.txt" download="5x1_20.txt">TXT 5x1_20</a> <br> [SVG 5x1_20]
+{% include tesselaceSample.html name="2x1_1" loc="tl/cloth/2x1_1.txt" GF="8,1" %} | <a href="tl/cloth/2x1_3.txt" download="2x1_3.txt">TXT 2x1_3</a> <br> [SVG 2x1_3] | <a href="tl/cloth/3x1_1.txt" download="3x1_1.txt">TXT 3x1_1</a> <br> [SVG 3x1_1] | <a href="tl/cloth/5x1_20.txt" download="5x1_20.txt">TXT 5x1_20</a> <br> [SVG 5x1_20]
 
 [GF 2x1_1]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=8,1&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=0&
 [GF 2x1_3]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=6,2&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=0&
@@ -54,7 +54,7 @@ Traditional Grounds
 [![](tl/4/1x5_1.png)][GF 1x5_1] | [![](tl/4/1x5_2.png)][GF 1x5_2] | [![](tl/4/1x5_3.png)][GF 1x5_3] | [![](tl/4/3x2_26.png)][GF 3x2_26] | [![](tl/4/3x3_19.png)][GF 3x3_19]
 <a href="tl/4/1x5_1.txt" download="1x5_1.txt">TXT 1x5_1</a> <br> [SVG 1x5_1] | <a href="tl/4/1x5_2.txt" download="1x5_2.txt">TXT 1x5_2</a> <br> [SVG 1x5_2] | <a href="tl/4/1x5_3.txt" download="1x5_3.txt">TXT 1x5_3</a> <br> [SVG 1x5_3] | <a href="tl/4/3x2_26.txt" download="3x2_26.txt">TXT 3x2_26</a> <br> [SVG 3x2_26] | <a href="tl/4/3x3_19.txt" download="3x3_19.txt">TXT 3x3_19</a> <br> [SVG 3x3_19]
 [![](tl/4/3x3_107.png)][GF 3x3_107] | [![](tl/4/4x2_120.png)][GF 4x2_120] | [![](tl/4/4x2_170.png)][GF 4x2_170] | [![](tl/4/4x4_33.png)][GF 4x4_33] | [![](tl/4/4x4_93.png)][GF 4x4_93]
-<a href="tl/4/3x3_107.txt" download="3x3_107.txt">TXT 3x3_107</a> <br> [SVG 3x3_107] | <a href="tl/4/4x2_120.txt" download="4x2_120.txt">TXT 4x2_120</a> <br> [SVG 4x2_120] | <a href="tl/4/4x2_170.txt" download="4x2_170.txt">TXT 4x2_170</a> <br> [SVG 4x2_170] | <a href="tl/4/4x4_33.txt" download="4x4_33.txt">TXT 4x4_33</a> <br> [SVG 4x4_33] | <a href="tl/4/4x4_93.txt" download="4x4_93.txt">TXT 4x4_93</a> <br> [SVG 4x4_93]]
+<a href="tl/4/3x3_107.txt" download="3x3_107.txt">TXT 3x3_107</a> <br> [SVG 3x3_107] | <a href="tl/4/4x2_120.txt" download="4x2_120.txt">TXT 4x2_120</a> <br> [SVG 4x2_120] | <a href="tl/4/4x2_170.txt" download="4x2_170.txt">TXT 4x2_170</a> <br> [SVG 4x2_170] | <a href="tl/4/4x4_33.txt" download="4x4_33.txt">TXT 4x4_33</a> <br> [SVG 4x4_33] | <a href="tl/4/4x4_93.txt" download="4x4_93.txt">TXT 4x4_93</a> <br> [SVG 4x4_93]
 See also<br> [MAE-gf nets](https://maetempels.github.io/MAE-gf/docs/nets#diagonal-net) |
  
 [GF 1x1_1]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=6&shiftColsSW=0&shiftRowsSW=1&shiftColsSE=1&shiftRowsSE=0&
