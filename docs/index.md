@@ -29,7 +29,7 @@ Traditional Grounds
 -------------------
 
 ### Cloth family
-{% include tesselaceSample.html name="2x1_1" path="cloth" GF=[GF 2x1_1] SVG="patch=8,1;checker" %}
+{% include tesselaceSample.html name="2x1_1" path="cloth" GF="/GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=8,1&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=0&" SVG="patch=8,1;checker" %}
 
 |     |     |     |     |     |
 |:---:|:---:|:---:|:---:|:---:|
