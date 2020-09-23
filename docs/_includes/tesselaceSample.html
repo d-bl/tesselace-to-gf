@@ -1,10 +1,11 @@
 <figure>
-    <a name="{{ include.GF }}"></a>
-    <img src="/{{ site.github.repository_name }}/tl/{{ include.path }}/{{ include.name }}.png" alt="{{ include.name }}" title="{{ include.name }}">
-    <figcaption>
-        {{ include.name }}:
-        <a href="/{{ site.github.repository_name }}/tl/{{ include.path }}/{{ include.name }}.txt" download="{{ include.name }}.txt">txt</a>
-        -
-        <a href="/GroundForge/sheet.html?{{ include.SVG }}">svg</a>
-    </figcaption>
+    <a href="{{ include.GF }}">
+        <img src="/{{ site.github.repository_name }}/tl/{{ include.path }}/{{ include.name }}.png" alt="{{ include.name }}" title="{{ include.name }}">
+        <figcaption>
+            {{ include.name }}:
+            <a href="/{{ site.github.repository_name }}/tl/{{ include.path }}/{{ include.name }}.txt" download="{{ include.name }}.txt">txt</a>
+            -
+            <a href="/GroundForge/sheet.html?{{ include.SVG }}">svg</a>
+        </figcaption>
+    </a>
 </figure>

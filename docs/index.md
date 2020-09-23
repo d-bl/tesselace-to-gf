@@ -58,16 +58,6 @@ See also:
 </ul>
 
 ### Kat or Paris family
-
-
-[![](tl/3_6/kat.png)][kat]  | [![](tl/3_6/2x4_8.png)][2x4_8] | [![](tl/3_6/2x4_18.png)][2x4_18] | [![](tl/3_6/2x4_28.png)][2x4_28] | [![](tl/3_6/2x4_29.png)][2x4_29]
-[![](tl/3_6/2x4_49.png)][2x4_49] | [![](tl/3_6/2x4_86.png)][2x4_86] | [![](tl/3_6/2x4_93.png)][2x4_93] | [![](tl/3_6/2x4_96.png)][2x4_96] | [![](tl/3_6/R3M3_6x6_1.png)][R3M3_6x6_1]
-
- See also:
- <ul>
-    <li>[MAE-gf Paris](https://maetempels.github.io/MAE-gf/docs/paris)</li>
- </ul> 
-   
  
  {% include tesselaceSample.html name="kat" path="3_6" GF="/GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=B-C-,---5,C-B-,-5--&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=0&" SVG="patch=B-C-,---5,C-B-,-5--;checker" %}
  {% include tesselaceSample.html name="2x4_8" path="3_6" GF="/GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=5-M9,-50F&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=4&shiftRowsSE=0&" SVG="patch=5-M9,-50F;checker" %}
@@ -80,6 +70,11 @@ See also:
  {% include tesselaceSample.html name="2x4_96" path="3_6" GF="/GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=5831,-4-7&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=4&shiftRowsSE=0&" SVG="patch=5831,-4-7;checker" %}
  {% include tesselaceSample.html name="R3M3_6x6_1" path="3_6" GF="/GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=5-O-E-,-E-5-O&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=6&shiftRowsSE=0&" SVG="patch=5-O-E-,-E-5-O;checker" %}
  
+ See also:
+  <ul>
+     <li>[MAE-gf Paris](https://maetempels.github.io/MAE-gf/docs/paris)</li>
+  </ul> 
+  
  Close cousin:
  
  {% include tesselaceSample.html name="2x2_5" path="3_6" GF="/GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=68,-4&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=2&shiftRowsSE=0&" SVG="patch=68,-4;checker" %}
