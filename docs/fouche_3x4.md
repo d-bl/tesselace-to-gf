@@ -12,7 +12,7 @@ Pierre Fouch&#233; created a sampler (see "Burden of Excess" [1](http://www.pier
 
 In the following tables, 
 * click on the image to see thread and pair diagrams in [GroundForge],
-* click on the pattern name to enlarge the image ,
+* click on the pattern name to enlarge the image,
 * click on the Inkscape link to download a template file for use with the bobbin lace [plugins for Inkscape](https://tesselace.com/tools/inkscape-extension/).
 
 Grounds are grouped according to the number of pairs required.  Grounds in the same group will work on the same grid.  To combine grounds from different groups will require either scaling, or the addition/removal of threads.
