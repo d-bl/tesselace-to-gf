@@ -20,9 +20,10 @@ The grounds that appear in the TesseLace index are the result of research by [Ve
 
 In the following tables, 
 * click on the **image** to see thread and pair diagrams in [GroundForge],
-* click on the **name** to download a template file for use with the [Bobbin Lace plugins for Inkscape](https://tesselace.com/tools/inkscape-extension/).
+* click on **txt** to download a template file for use with the [Bobbin Lace plugins for Inkscape](https://tesselace.com/tools/inkscape-extension/).
+* click on **svg** link to experiment with other pin positions.  
 
-Families of patterns are variations of the same pattern with [modified pin positions](/GroundForge/help/Reshape-Patterns).  Click on the **SVG** link to experiment with other pin positions.  
+Families of patterns are variations of the same pattern with [modified pin positions](/GroundForge/help/Reshape-Patterns).
 Note: Currently, GroundForge does not support pin positions therefore the thread diagrams for all members of a family look the same.
    
 Traditional Grounds
@@ -53,9 +54,7 @@ Traditional Grounds
  {% include tesselaceSample.html name="4x4_93" path="4" GF="/GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=5632,56-2,5-5-,-535&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=0&" SVG="patch=5632,56-2,5-5-,-535;checker" %}
  
 See also:
-<ul>
-    <li>[MAE-gf nets](https://maetempels.github.io/MAE-gf/docs/nets#diagonal-net)</li>
-</ul>
+* [MAE-gf nets](https://maetempels.github.io/MAE-gf/docs/nets#diagonal-net)
 
 ### Kat or Paris family
  
@@ -71,9 +70,7 @@ See also:
  {% include tesselaceSample.html name="R3M3_6x6_1" path="3_6" GF="/GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=5-O-E-,-E-5-O&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=6&shiftRowsSE=0&" SVG="patch=5-O-E-,-E-5-O;checker" %}
  
  See also:
-  <ul>
-     <li>[MAE-gf Paris](https://maetempels.github.io/MAE-gf/docs/paris)</li>
-  </ul> 
+ * [MAE-gf Paris](https://maetempels.github.io/MAE-gf/docs/paris)
   
  Close cousin:
  
@@ -87,10 +84,8 @@ See also:
 {% include tesselaceSample.html name="4x4_117301" path="3_4_8" GF="/GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=437-,4-73,7-43,734-&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=4&shiftRowsSE=0&" SVG="patch=437-,4-73,7-43,734-;checker" %}
 
 See also:
-<ul>
-    <li> [MAE-gf Roses](https://maetempels.github.io/MAE-gf/docs/roses)</li>
-    <li> [Droste effect](/GroundForge/Droste-effect)</li>
-</ul>
+* [MAE-gf Roses](https://maetempels.github.io/MAE-gf/docs/roses)
+* [Droste effect](/GroundForge/Droste-effect)
 
 Close cousins:
 
@@ -109,9 +104,7 @@ Close cousins:
  {% include tesselaceSample.html name="4x3_267" path="3_6" GF="/GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=5-O,25-,430,-17&shiftColsSW=0&shiftRowsSW=4&shiftColsSE=3&shiftRowsSE=0&" SVG="patch=5-O,25-,430,-17;checker" %}
  
 See also:
-<ul>
-    <li>[MAE-gf bias](https://maetempels.github.io/MAE-gf/docs/bias)</li>
-</ul>
+* [MAE-gf bias](https://maetempels.github.io/MAE-gf/docs/bias)
 
 Non-traditional grounds
 -----------------------
