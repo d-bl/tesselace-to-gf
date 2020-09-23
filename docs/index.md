@@ -31,9 +31,9 @@ Traditional Grounds
 ### Cloth family
 
 |     |     |     |     |     |
-|:---|:---|:---|:---|:---|
+|:---:|:---:|:---:|:---:|:---:|
 [![](tl/cloth/2x1_1.png)][GF 2x1_1] | [![](tl/cloth/2x1_3.png)][GF 2x1_3] | [![](tl/cloth/3x1_1.png)][GF 3x1_1] | [![](tl/cloth/5x1_20.png)][GF 5x1_20]
-{% include tesselaceSample.html name="2x1_1" loc="tl/cloth/2x1_1.txt" GF="patch=8,1;checker" %} | <a href="tl/cloth/2x1_3.txt" download="2x1_3.txt">TXT 2x1_3</a> <br> [SVG 2x1_3] | <a href="tl/cloth/3x1_1.txt" download="3x1_1.txt">TXT 3x1_1</a> <br> [SVG 3x1_1] | <a href="tl/cloth/5x1_20.txt" download="5x1_20.txt">TXT 5x1_20</a> <br> [SVG 5x1_20]
+{% include tesselaceSample.html name="2x1_1" loc="tl/cloth/2x1_1.txt" GF="patch=8,1;checker" %} | {% include tesselaceSample.html name="2x1_3" loc="tl/cloth/2x1_3.txt" GF="patch=6,2;checker" %} | {% include tesselaceSample.html name="3x1_1" loc="tl/cloth/3x1_1.txt" GF="patch=6,8,1;checker" %} | {% include tesselaceSample.html name="5x1_20" loc="tl/cloth/5x1_20.txt" GF="patch=6,6,6,2,2;checker" %}
 
 [GF 2x1_1]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=8,1&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=0&
 [GF 2x1_3]: /GroundForge/tiles.html?patchWidth=12&patchHeight=12&tile=6,2&shiftColsSW=0&shiftRowsSW=2&shiftColsSE=1&shiftRowsSE=0&
