@@ -1,5 +1,5 @@
-This project is a pruned copy of https://github.com/jo-pol/GroundForge
-keeping only what lead to the index on the bobbin lace sampler and book by Gertrude Whiting.
+This project started as a pruned copy of https://github.com/d-bl/GroundForge
+keeping only tesselace related content.
 
 Many files moved a lot, so what to prune beyond the obvious was found
 by trial and error while browsing through the remaining history.
