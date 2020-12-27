@@ -75,7 +75,7 @@ See also:
 
 See also:
 * [MAE-gf Roses](/MAE-gf/docs/roses)
-* [Droste effect](/GroundForge/help/Droste-effect)
+* [Droste effect](/GroundForge-help/Droste-effect)
 
 Close cousins:
 

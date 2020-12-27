@@ -5,7 +5,7 @@ In the following tables,
 * click on **txt** to download a template file for use with the bobbin lace [plugins for Inkscape](https://tesselace.com/tools/inkscape-extension/),
 * click on **svg** to move intersection positions around.  
 
-Families of patterns are variations of the same pattern with [modified pin positions](/GroundForge/help/Reshape-Patterns).
+Families of patterns are variations of the same pattern with [modified pin positions](/GroundForge-help/Reshape-Patterns).
 Note: Currently, GroundForge does not support pin positions therefore the thread diagrams for all members of a family look the same.
 
 [TesseLace.com]: https://tesselace.com
