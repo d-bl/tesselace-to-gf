@@ -1,4 +1,4 @@
-The grounds that appear in the TesseLace index are the result of research by [Veronika Irvine](https://tesselacedotcom.wordpress.com/about/) and were generated using the [TesseLace algorithm](https://tesselacedotcom.wordpress.com/research/bridges2012/).  Some of these grounds are familiar, traditional grounds.  Others have not been found in known catalogues and are likely new.
+The grounds that appear in the TesseLace index are the result of research by [Veronika Irvine](https://linktr.ee/tesselace/) and were generated using a [mathematical model](https://tesselacedotcom.wordpress.com/research/jmm2014/).  Some of these grounds are familiar, traditional grounds.  Others have not been found in known catalogues and are likely new.
 
 In the following tables, 
 * click on the **image** to see thread and pair diagrams in [GroundForge],
