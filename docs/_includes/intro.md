@@ -2,7 +2,7 @@ The grounds that appear in the TesseLace index are the result of research by [Ve
 
 In the following tables, 
 * click on the **image** to see thread and pair diagrams in [GroundForge],
-* click on **txt** to download a template file for use with the bobbin lace [plugins for Inkscape](https://tesselacedotcom.wordpress.com/tools/inkscape-extension),
+* click on **txt** to download a template file for use with the bobbin lace [plugins for Inkscape](https://d-bl.github.io/inkscape-bobbinlace/),
 * click on **svg** to move intersection positions around.  
 
 Families of patterns are variations of the same pattern with [modified pin positions](/GroundForge-help/Reshape-Patterns).
