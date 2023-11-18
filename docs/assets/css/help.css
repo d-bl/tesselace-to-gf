@@ -9,6 +9,7 @@ header a{color: #fff}
 header a:hover {color: #9ddcff}
 
 .deprecated { background: darkorange; padding: 2px; }
+header h1, header h2 {width:100%}
 
 #sidebar strong { font-size: 18px; font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; }
 #sidebar ul { padding-left: 0; margin-bottom: 0px; font-weight: bold; font-size: 12px; color: #474747; }
